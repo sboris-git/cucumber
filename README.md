@@ -1,2 +1,2 @@
-# cucumber
-Simple cucumber test
+# Cucumber
+Simple cucumber JUnit test
